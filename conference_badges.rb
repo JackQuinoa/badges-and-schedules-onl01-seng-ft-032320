@@ -21,7 +21,7 @@ def assign_rooms(name)
 end
   
 def printer(results)
-  binding.pry
+  ## binding.pry
 puts batch_badge_creator(results)
  
 puts assign_rooms(results)
