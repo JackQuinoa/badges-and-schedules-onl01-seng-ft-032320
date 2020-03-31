@@ -21,7 +21,6 @@ def assign_rooms(name)
 end
   
 def printer(results)
-  ## binding.pry
   batch_badge_creator(results).each do |badge|
     puts badge
  end
