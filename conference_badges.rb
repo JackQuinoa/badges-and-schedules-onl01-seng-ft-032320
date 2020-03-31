@@ -26,6 +26,6 @@ def printer(results)
     binding.pry
     puts badge
  end
-  assign_rooms(results).each do |
+  assign_rooms(results).each do ||
  end
 end
